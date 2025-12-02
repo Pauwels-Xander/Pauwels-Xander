@@ -24,7 +24,7 @@ Erasmus University student and founder at SkillMix.
 - **[Financial Chatbot](https://github.com/Pauwels-Xander/Financial-Chatbot)**  
   A conversational agent that answers finance related questions using rule based logic and data retrieval.
 
-  - **[ARGARCH Copula Model](https://github.com/Pauwels-Xander/ARGARCH-Copula)**  
+- **[ARGARCH Copula Model](https://github.com/Pauwels-Xander/ARGARCH-Copula)**  
   Implementation of an AR GARCH model combined with a copula for modelling joint dependence in multivariate time series.
 
 - **[Demand Forecast](https://github.com/Pauwels-Xander/DemandForecast)**  
