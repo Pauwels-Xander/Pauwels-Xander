@@ -18,8 +18,8 @@ Erasmus University student and founder of SkillMix
 
 ## Tech Stack
 <p>
-<strong>Languages:</strong> Python, R  
-<strong>Skills:</strong> ML, econometrics, optimization, RL, simulation, OR tools  
+<strong>Languages:</strong> Python, R<br>
+<strong>Skills:</strong> ML, econometrics, optimization, RL, simulation, OR tools
 </p>
 
 ## Selected Public Projects
