@@ -24,17 +24,17 @@ Erasmus University student and founder at SkillMix.
 - **[Financial Chatbot](https://github.com/Pauwels-Xander/Financial-Chatbot)**  
   A conversational agent that answers finance related questions using rule based logic and data retrieval.
 
-- **[Covid 19 Analysis of Stocks](https://github.com/Pauwels-Xander/Covid-19-Analysis-Stocks)**  
-  Statistical and visual analysis of stock market behaviour during the Covid 19 period, including event based reactions.
+  - **[ARGARCH Copula Model](https://github.com/Pauwels-Xander/ARGARCH-Copula)**  
+  Implementation of an AR GARCH model combined with a copula for modelling joint dependence in multivariate time series.
 
 - **[Demand Forecast](https://github.com/Pauwels-Xander/DemandForecast)**  
   Demand forecasting using historical data and ML or statistical models to support planning and inventory decisions.
 
-- **[ARGARCH Copula Model](https://github.com/Pauwels-Xander/ARGARCH-Copula)**  
-  Implementation of an AR GARCH model combined with a copula for modelling joint dependence in multivariate time series.
-
 - **[Energy Production Optimization](https://github.com/Pauwels-Xander/Energy-Production-Optimization)**  
   Operations research based optimization for energy production and resource scheduling.
+
+- **[Covid 19 Analysis of Stocks](https://github.com/Pauwels-Xander/Covid-19-Analysis-Stocks)**  
+  Statistical and visual analysis of stock market behaviour during the Covid 19 period, including event based reactions.
 
 - **[TA Scheduling](https://github.com/Pauwels-Xander/TA-Scheduling)**  
   Scheduling system for allocating teaching assistant sessions while reducing conflicts and improving efficiency.
