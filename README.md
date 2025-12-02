@@ -9,26 +9,37 @@ Erasmus University student and founder at SkillMix.
 
 ## About Me
 - Passionate about applied ML, optimization and building useful products.
-- Interested in AI for SMEs and automating consulting workflows.
-- Experience with projects on reinforcement learning, simulation, car detection and traffic optimization.
+- Interested in AI for SMEs and automating workflows.
+- Experience with projects on reinforcement learning, simulation, quantitative finance, NLP, and traffic optimization.
 
 ## Current Work
 - Building SkillMix projects and automations.
 - Developing ML models for traffic control and image classification.
-- Designing a student consulting platform for real-world project matching.
 
 ## Tech Stack
-- Python, R, SQL  
-- PyTorch, scikit-learn, Stable-Baselines3  
-- Git, Linux, Docker  
+- Python & R
 
 ## Selected Projects
-- Traffic light optimization with RL (custom Gymnasium environment)  
-- Vehicle detection in traffic images  
-- Net-zero raw materials hub design (ESG challenge)  
-- ML-based lateness optimization for tutorial attendance  
+
+- **[Financial Chatbot](https://github.com/Pauwels-Xander/Financial-Chatbot)**  
+  A conversational agent that answers finance related questions using rule based logic and data retrieval.
+
+- **[Covid 19 Analysis of Stocks](https://github.com/Pauwels-Xander/Covid-19-Analysis-Stocks)**  
+  Statistical and visual analysis of stock market behaviour during the Covid 19 period, including event based reactions.
+
+- **[Demand Forecast](https://github.com/Pauwels-Xander/DemandForecast)**  
+  Demand forecasting using historical data and ML or statistical models to support planning and inventory decisions.
+
+- **[ARGARCH Copula Model](https://github.com/Pauwels-Xander/ARGARCH-Copula)**  
+  Implementation of an AR GARCH model combined with a copula for modelling joint dependence in multivariate time series.
+
+- **[Energy Production Optimization](https://github.com/Pauwels-Xander/Energy-Production-Optimization)**  
+  Operations research based optimization for energy production and resource scheduling.
+
+- **[TA Scheduling](https://github.com/Pauwels-Xander/TA-Scheduling)**  
+  Scheduling system for allocating teaching assistant sessions while reducing conflicts and improving efficiency.
+
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/pauwelsxander  
-- Website (coming soon): pauwels-xander.github.io  
-- Email: xanderp1306@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pauwels-xander/  
+- Business Email: xander@skillmix.nl
