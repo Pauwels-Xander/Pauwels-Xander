@@ -19,7 +19,7 @@ Erasmus University student and founder at SkillMix.
 ## Tech Stack
 - Python & R
 
-## Selected Projects
+## Selected Public Projects
 
 - **[Financial Chatbot](https://github.com/Pauwels-Xander/Financial-Chatbot)**  
   A conversational agent that answers finance related questions using rule based logic and data retrieval.
